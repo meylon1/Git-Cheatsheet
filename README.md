@@ -19,10 +19,10 @@ Linux
 
 Windows
 
+    SSL Certificate error: git config --system http.sslcainfo "C:\Users\YOURUSERNAMEHERE\AppData\Local\Programs\Git\mingw64\ssl\certs\ca-bundle.crt"
+
 Creating/Using
 
 Collaboration
 
-Jargon/Toubleshooting
-
-    SSL Certificate error: git config --system http.sslcainfo "C:\Users\YOURUSERNAMEHERE\AppData\Local\Programs\Git\mingw64\ssl\certs\ca-bundle.crt"
+Jargon
