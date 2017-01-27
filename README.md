@@ -7,7 +7,7 @@ Basic Commands
     
     Git Clone <Repository URL>: Clone a repository to a local machine
     
-    Git Branch: List branches. Labels current with green highlight and *
+    Git Branch: List branches. Labels currently viewed branches with green highlight and *
     
     Git Status: Lists the files that have been changed, added or, commited
     
