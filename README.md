@@ -13,11 +13,13 @@ Basic Commands
     
     Git Commit -a -m "message": commit any changes made on local machine
     
-    rmdir <repository name> /s /q: to remove working copy off local machine
+   
 
 Linux
 
 Windows
+
+     rmdir <repository name> /s /q: to remove working copy off local machine
 
     SSL Certificate error: git config --system http.sslcainfo "C:\Users\YOURUSERNAMEHERE\AppData\Local\Programs\Git\mingw64\ssl\certs\ca-bundle.crt"
 
