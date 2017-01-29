@@ -23,11 +23,7 @@ Windows
 - git merge /  [alias]/[branch] merge a remote branch into your current branch to bring it up to date
 - Pwd / to see the path you’re currently in 
 - git push  [branch]  / Transmit local branch commits to the remote repository branch
-
-     rmdir <repository name> /s /q: to remove working copy off local machine
-
-    SSL Certificate error: git config --system
-    " http.sslcainfo "C:\Users\YOURUSERNAMEHERE\AppData\Local\Programs\Git\mingw64\ssl\certs\ca-bundle.crt" "
+- rmdir <repository name> /s /q: to remove working copy off local machine
 
 Collaboration 
 
